@@ -66,3 +66,10 @@ hr {
   border-width: 2px
 }
 
+a {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+}
+
+a:link    { color: #d62828; }
+a:hover   { color: #f77f00; }
