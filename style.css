@@ -7,7 +7,7 @@ body {
   padding: 40px;
 }
 
-li-ref {
+li.header-link{
   display:inline;
   padding-right:30px
 }
